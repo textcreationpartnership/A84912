@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Levellers vindication or, a tragicall story, presented unto this common-vvealth, city, and army: together with a letter directed to his Excellency, and the Councell of Warre sitting at White-Hall, concerning the great cruelty and oppression still continued in this land, notwithstanding the many undertakings of the army, their vowes, promises, and protestations to the contrary. Shewing withall, the most fearfull judgements of almighty God on many thousands of perfidious and deceitfull persons: / By James Freize, Merchant. This was delivered by Nathaniel Neale, to Colonell Pride, and by him presented to the Councell of War then sitting at White-Hall, the 8 of September 1649.</title>
+            <author>Freize, James.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84912</idno><idno type="EEBO-CITATION">99865386</idno>
+  <idno type="VID">165392</idno>
+  <idno type="EEBO-PROQUEST">2264207032</idno>
+  
+            <idno type="STC">Wing F2197B</idno>
+            <idno type="STC">Thomason E573_8</idno>
+            <idno type="STC">ESTC R206212</idno>
+            <idno type="PROQUEST">99865386</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865386e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Levellers vindication or, a tragicall story, presented unto this common-vvealth, city, and army: together with a letter directed to his Excellency, and the Councell of Warre sitting at White-Hall, concerning the great cruelty and oppression still continued in this land, notwithstanding the many undertakings of the army, their vowes, promises, and protestations to the contrary. Shewing withall, the most fearfull judgements of almighty God on many thousands of perfidious and deceitfull persons: / By James Freize, Merchant. This was delivered by Nathaniel Neale, to Colonell Pride, and by him presented to the Councell of War then sitting at White-Hall, the 8 of September 1649.</title>
+                  <author>Freize, James.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey, and are to be sold, at his shop at London Stone,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Freize is in opposition to the large number of lawyers in Parliament; he states that 57 of 80 members of the House are lawyers. He illustrates his point in the tale of Boris Godunov, Emperor of Russia, in "The fruits of perfidiousness" beginning on p.5.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept: 11 1649".</note>
+                  <note>Reproductions of the originals in the British Library and the Kres Library, Harvard University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Lawyers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Levellers --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Russia --  History --  Boris Fyodorovich Godunov, 1598-1605 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165392:1"/>
+            <p>THE Levellers Vindication OR, A Tragicall Story, Presented unto this COMMON-WEALTH, CITY, and ARMY: Together with a Letter directed to his Excellency, and the Councell of Warre sitting at <hi>White-Hall, Concerning</hi> The great Cruelty and Oppression still continued in this Land, notwithstanding the many undertakings of the Army, their Vowes, Promises, and Protestations to the contrary.</p>
+            <p>Shewing withall, the most fearfull judgements of Almighty God on many thousands of perfidious and deceitfull Persons:</p>
+            <p>By <hi>James Freize,</hi> Merchant.</p>
+            <p>This was delivered by <hi>Nathaniel Neale,</hi> to Colonell <hi>Pride,</hi> and by him presented to the Councell of War then sitting at <hi>White-Hall,</hi> the 8 of <hi>September</hi> 1649.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Lindsey,</hi> and are to be sold, at his Shop at <hi>London</hi> Stone. <add>Sept: 11 1649.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165392:2"/>
+            <pb n="3" facs="tcp:165392:2"/>
+            <opener>
+               <salute>Right honourable and beloved in the Lord Iesus,</salute>
+            </opener>
+            <p>I Doe herewith present to your sight and considerati<g ref="char:EOLhyphen"/>on, <hi>A Tragicall Looking Glasse;</hi> beseeching the Lord Jesus to enable you to make true sanctified use there<g ref="char:EOLhyphen"/>of to his glory and your own comfort, <hi>Amen.</hi>
+            </p>
+            <p>I also addressed a few lines unto you long since, with 25 Printed Papers (intituled, <hi>Why Not,</hi>) and were delive<g ref="char:EOLhyphen"/>red to your Iudge Advocate Col. <hi>Whaly,</hi> thereby as also by my Letters putting you in minde of your former <hi>Vn<g ref="char:EOLhyphen"/>dertakings, Vowes, Promises</hi> and <hi>Protestations</hi> made to God and this great Nation <hi>(viz.)</hi> That you would see <hi>Iustice, Iudgement</hi> and <hi>Mercy,</hi> speedily advanced to the Glory of God, and the liberty of this great people restored,<note place="margin">But what good can this Nation expect from them who being but <hi>80,</hi> in the totall, are over<g ref="char:EOLhyphen"/>powred by <hi>57</hi> Lawyers sitting in the House amongst them, who in every thing carry the maine Vote.</note>
+               <hi>(but not yet by you performed)</hi> which hath also been by the Parliament long since as fairly promised; yea, this Na<g ref="char:EOLhyphen"/>tion by them lately Proclaimed <hi>A Free State,</hi> Testified also by their Inscription on the great Seal of <hi>England</hi> Now, If they have not in all this lied unto God and this Nation, Why then is not all this performed by them in Deed and Truth? (For if a Free State, why not then al<g ref="char:EOLhyphen"/>so a Free People?) why is not Justice and Mercy ad<g ref="char:EOLhyphen"/>vanced above the Seats of Injustice, Tyranny and Op<g ref="char:EOLhyphen"/>pression (still continued) and the people freed from Slavery and the Cruell unlimited Bondage of the Law; And why are the Bodies of Men and Women still de<g ref="char:EOLhyphen"/>tained in cruell Prisons for debt and upon false commit<g ref="char:EOLhyphen"/>ments? yea, the severall Prisons daily stowed with the Bodies of poor Men and Women, and many have mi<g ref="char:EOLhyphen"/>serably perished since the time of their Proclaiming of this Nation, <hi>A Free State or People.</hi>
+            </p>
+            <p>And if this Nation be by you and them made a Free State, Why not the People thereof Freed from the Bondage and cruell Imprisonment? and the intollerable
+<pb n="4" facs="tcp:165392:3"/> yoak of the corrupt practise of the Law in Pettifogging Lattine and Pedlers French? Take heed, let not the prince of pride deceive you any longer by his servants, <hi>The subtile Covetous deceitfull mercenary Lawyers (the Common Hakneys to all contentious evill disposed men.)</hi> For, God whose eye beholdeth <hi>their iniquities and de<g ref="char:EOLhyphen"/>ceits,</hi> will not be mocked by you nor them; yea, he will erelong cast both them and their infernall craft to the ground <hi>(as of the proud Bishops,)</hi> yea, <hi>They shall become as dang:</hi> And assuredly <hi>accursed of God and abhorred of men are they,</hi> that stand up in their defence or for their sup<g ref="char:EOLhyphen"/>port in these their cruell impious oppressive wayes; and as I said by my former Letter, I say still unto you, That it grieveth my Soule exceedingly, to see and hear the Prayers Prayses, and well-wishes of the people, <hi>(nay, of your very friends,)</hi> towards you (that have done worthi<g ref="char:EOLhyphen"/>ly and valiantly for your Country, and by whom the Lord hath brought mighty things to passe) and for you for<g ref="char:EOLhyphen"/>merly, to be now turned <hi>into Curses and despitefull Revi<g ref="char:EOLhyphen"/>lings.</hi>
+            </p>
+            <p>
+               <hi>Honourable Sirs,</hi> It is not yet too late (If you will not dispise the Councell of the poore) for you truly to turn unto the Lord your God, in Justice, Judgement and Mercy speedily, that so he may be gracious unto you: And to abandon the Syrene inchantments of the sons of <hi>Beliall</hi> (the Lawyers) by whom the Rights, Estates, Liberties and Lives of the Poore in the Land are not vallued, but daily sold for Bondmen and Bondwomen; yea, destroyed, and murthered in Prisons; expell them <hi>(as the Lords, Bishops, and Iudges)</hi> out of the great Nati<g ref="char:EOLhyphen"/>onall Councell, put Juster men in their places, and doe this work of the Lord for the good ease of your Coun<g ref="char:EOLhyphen"/>trey, thoroughly and speedily, and say not, it is not yet seasonable, <hi>for cursed are they that do it negligently:</hi> so shall
+<pb n="5" facs="tcp:165392:3"/> yee assuredly regain the favour of God, the love of this Nation <hi>(Now lost)</hi> and your own honour, by you for<g ref="char:EOLhyphen"/>merly gained in a sea of blood and danger, but now al<g ref="char:EOLhyphen"/>most drowned in the filthy Lake of infernall Delusion, sloth and security; in all which the God of Mercy stand by you, give you hearts to accomplish this work faith<g ref="char:EOLhyphen"/>fully, (for which the eyes of this whole Nation are and have been long upon you) direct you in the way, and per<g ref="char:EOLhyphen"/>fect this great work by you to his glory, the content of this People, and your own praise, and safety to posterity (least your neglect thereof cause this advertisement to rise up in Iudgement against you,) and this shall be the constant addresses of him to the Throne of Grace for you, who is in the Faith, <hi>Right Honourable.</hi>
+            </p>
+            <closer>
+               <signed>Your Friend and Countreys Servant in all fidelity to his power <hi>Iames Freize,</hi>
+               </signed>
+               <dateline>From the <hi>Fleet;</hi> in the 44 Moneth of my Illegall Tyrannicall close restraint in the Tower Chamber, by the malignant War<g ref="char:EOLhyphen"/>den <hi>Henry Hopkins,</hi> and his Malignant Clerk <hi>Tho<g ref="char:EOLhyphen"/>mas Rivet,</hi> and by command of Sir <hi>Iohn Lenthall,</hi>
+                  <date>this 25 of the 6 Moneth called <hi>August.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="narrative">
+            <head>
+               <hi>The fruits of Perfidiousnesse:</hi> Or, a brief Tragicall Story presented as <hi>A Looking Glasse,</hi> for this Common-wealth, City, and Army, unto the Lord Generall, and his Councell of war, <hi>Sept.</hi> 8. 1649.</head>
+            <p>
+               <hi>BOrice Feodorowick Godoonove</hi> Emperour of <hi>Russia,</hi> succeeding the Tyrant Emperour and Conquerour <hi>Iohn Bazilius Cherkaskee,</hi> and <hi>Theodorus</hi> his sonne, did impiously prove perfidious in the breach of oath
+<pb n="6" facs="tcp:165392:4"/> and promises made to the people, for the restaurations of all their ancient just freedomes, the people thereupon secretly comply with <hi>Sigismundus</hi> King of <hi>Poland,</hi> who more out of revenge against <hi>Borice</hi> then love to the <hi>Rus<g ref="char:EOLhyphen"/>sian</hi> Nation, sends one <hi>Demetrius</hi> with an army of 25000 horse to challenge the Crown of <hi>Russia.</hi> Against him <hi>Borice</hi> the Emperour sends an Army of 200000 horse and foot. Upon the meeting of both Armies, all the <hi>Russian</hi> Commanders revolte to <hi>Demetrius,</hi> with most of that great Army; the rest throw down their armes and run into the woods; <hi>Borice</hi> hearing of this betakes him<g ref="char:EOLhyphen"/>self to his bed chamber, and there comes to an untimely death, <hi>Demetrius</hi> approches the Emperiall City of <hi>Mosco;</hi> the Nobility, Gentry, and Ciizens meet him: chuse him for their Emperour, make him sweare to restore un<g ref="char:EOLhyphen"/>to them their ancient liberties, <hi>Demetrius</hi> sweares by the Crosse of Christ to do it, but proves also perfidious: the people for this (at 2 years end) destroy <hi>Demetrius,</hi> and all his noble <hi>Polonian</hi> Commanders and Souldiers in their lodgings to th number of 25000 in one day in the city of <hi>Moscoe▪</hi> this cruell bloody act by them effected, they then chose <hi>Bazilius Shuiskee</hi> Emperour, who also swears the confirmation of all their libetties, but proves also perfidious; the Nobility, and Citizens thereupon (at 6 years end) bind <hi>Bazilious</hi> hand and foot, and sent him in<g ref="char:EOLhyphen"/>to <hi>Poland,</hi> and there by their Ambassadors, <hi>Feodor, Meeki<g ref="char:EOLhyphen"/>towick Godoonove</hi> (the late Emperour <hi>Michaylos</hi> Father- and <hi>Ivan Gramotine,</hi> craved of the King of <hi>Poland,</hi> his son <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Wlad slavous</hi> (the then Prince of <hi>Poland</hi>) to be their Em<g ref="char:EOLhyphen"/>perour, to which the King then seemingly consented, meerly to work his revenge on the perfidious Citizens of <hi>Mosco,</hi> for the death of <hi>Demetrius</hi> and the <hi>Polonian</hi> Com<g ref="char:EOLhyphen"/>manders and Souldiers so barbarously by them massa<g ref="char:EOLhyphen"/>cred but six yeares before. Therupon the King sends Ge<g ref="char:EOLhyphen"/>nerall
+<pb n="7" facs="tcp:165392:4"/>
+               <hi>Zoltefskee</hi> with 12000 resolute <hi>Polonian</hi> Horsemen to <hi>Moscoe,</hi> where being arrived, and by the Citizens nobly received, feasted, and presented with Gifts. Gene<g ref="char:EOLhyphen"/>rall <hi>Zoltefskee</hi> gives them assurance of the Prince of <hi>Po<g ref="char:EOLhyphen"/>lands</hi> arrivall there with all convenient speed.</p>
+            <p>But 8 moneths being expired, and the Prince not come, the Citizens and Nobility begin to grow jealous, heart<g ref="char:EOLhyphen"/>burnings daily increase between the Souldiers and Citi<g ref="char:EOLhyphen"/>zens, and frequent quarrells in the streets arise (and all this furthered and contrived by one <hi>Feodor Andronove</hi> Chancellour, with some others of his faction) who or<g ref="char:EOLhyphen"/>der the Souldiers to require freequarter and their pay. to compasse this, great Taxes are laid upon the people for it, the people refuse to pay them, the Souldiers take them by force, and plunder mens houses, this increases heartburnings in the people against the Souldiers, so as the Citi<g ref="char:EOLhyphen"/>zens have private meetings, take an oath of secresie, resolve on a set day to cut the throats of all the Commanders and Souldiers, (as be<g ref="char:EOLhyphen"/>fore) in their lodgings on the 16 of <hi>May</hi> 1611 in the night. But God the righteous Iudge who abhorreth <hi>Cruelty, perfidiousnesse; breach of oath and promise</hi> (though made to Heathen) brought these their evill intentions most justly upon their own heads (for the <hi>Polonian</hi> Souldiers (being by the Citizens contrivance for their case and assured safety (as they conceived) billited asunder and lod<g ref="char:EOLhyphen"/>ged but one in a house) found themselves agrieved, and pretending a fear of their lives, pray that the Citizens may be disarmed, which forthwith by order of the great Nationall Councell then sitting, was accomplished, so as but one hatchet was left among every three houses to cleave their wood.</p>
+            <p>This inrages the Citizens and confirmes them in their resoluti<g ref="char:EOLhyphen"/>ons, the <hi>Polonian</hi> Souldiers being by the Citizens reviling speech<g ref="char:EOLhyphen"/>es and threats exasperated against the Citizens, resolve by an oath of secrecy every man to see his lodging on fire at one of the clock in the morning, the sixth of the said <hi>May,</hi> 1611 which was by them done accordingly, and all the inhabitants of the City, men, women and children put to the sword, and that famous City whose Citizens were thought to exceed 400000 in number, being then
+<pb n="8" facs="tcp:165392:5"/> almost 30 miles in compasse, was thus turned into ashes in one day, excepting the Emperiall Pallace, and some Monasteries, Churches, and other store houses (all which mine eyes were spe<g ref="char:EOLhyphen"/>ctatours of) and in all which was then plainly seen the immediate hand of Gods just and irefull wrath on all parties that had most perfidiously broke their Faith, Vows, and Promises made to each other: for after their thus sacking and plundering this great impreg<g ref="char:EOLunhyphen"/>nable city, the Lord stirred up the inhabitants of the Land to besiege the Souldiers within the City 2 yeares, in which time the Souldiers were famished &amp; destroyed, by frequent sallies &amp; assaults made; so that of all that number (with many more) there was but the life of the <hi>Polonian</hi> Generall saved by Treaty.</p>
+            <p>Consider this all ye, on whom this Tragicall story reflects, and know assuredly, that God is the same just and jealous God, and will assuredly recompence all faithlesse perfidious persons according to their works; for the Lord is very jealous of his honour, especially when he is wickedly robbed by any covetous self-seeking people (as he hath bin by us many years, &amp; stil is) of his too sacred Primarie attributes <hi>justice</hi> &amp; <hi>mercy,</hi> which robbery is most audaciously appro<g ref="char:EOLhyphen"/>ved of by us; to be by the sons of Beliall, the Lawyers practised and daily sold for the price of iniquity, (even Iustice and Mercy) to the high displeasure of God, and to the utter ruine of themselves and their posterities, in their estates, liberties, and lives.</p>
+            <p>Therefore O sinfull <hi>England,</hi> look to it, repent of this thy great wickednesse, Backslidings, and hypocrisies, abandon these sons of Beliall (the Lawyers) out of thy great Nationall Councells; per<g ref="char:EOLhyphen"/>form thy Oaths, Vows, and Promises made to God, and the op<g ref="char:EOLhyphen"/>pressed and distressed in the Land, and turn unto the Lord thy God in the true and faithfull administration of justice, judgement and mercy speedily, left the same heavy judgements take hold of thee: so done, the Lord thy God will then be gracious unto this Land, and heal the present grievous breaches therof, possessing your hearts with the Spirit of love, unity, and peace: For which the most earnest ad<g ref="char:EOLhyphen"/>dresses of him, shall be to the Throne of Grace, and Mercy, Who is your friend in the Lord Iesus, and his countries servant in all fidelity during the time of this his short Pilgrimage here.</p>
+            <closer>
+               <signed>Iames Freiz<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+               <dateline>From the Fleet <date>this 25 of the 6 moneth called <hi>August</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
